@@ -1,0 +1,1 @@
+# Histogram-Equalization-for-Grayscale-and-Color-Images
